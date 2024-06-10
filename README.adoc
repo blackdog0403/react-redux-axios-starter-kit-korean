@@ -1,3 +1,5 @@
+# THIS Project IS DEPRECATED
+
 # react-redux-axios-stater-kit-korean 개발가이드
 :doctype: book
 :icons: font
